@@ -1,2 +1,2 @@
 # Smart-table
-![overview banner](/media/projectHeade.png)
+![overview banner](/media/projectHeader.png)
