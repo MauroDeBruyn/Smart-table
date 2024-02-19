@@ -2,8 +2,11 @@
 ![overview banner](/media/projectHeader.png)
 
 ## Project Overview
+The Smart Table project is a simple yet innovative project that involves creating a table with illuminated stars that respond to the touch of a hand. This README file provides an overview of the project, its features, materials, and usage guidelines.
 
 ## Features
+- Illuminated sections of stars on the table respond to touch.
+- Easy to set up and use.
 
 ## Materials
 - TTP223
@@ -22,4 +25,4 @@
 4. **Adjust Settings**: If the panel buggs (touch not detected, lights flickering, Light illuminating without making physical contact with the surface), reboot the device the fixt the problem.
 
 ## Creator
-The Smart Table project was created by [Your Name/Organization].
+The Smart Table project was created by Mauro De Bruyn.
